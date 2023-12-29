@@ -1,0 +1,24 @@
+@inproceedings{ansell-etal-2021-mad-g,
+    title = "{MAD}-{G}: {M}ultilingual Adapter Generation for Efficient Cross-Lingual Transfer",
+    author = "Ansell, Alan  and
+      Ponti, Edoardo Maria  and
+      Pfeiffer, Jonas  and
+      Ruder, Sebastian  and
+      Glava{\v{s}}, Goran  and
+      Vuli{\'c}, Ivan  and
+      Korhonen, Anna",
+    editor = "Moens, Marie-Francine  and
+      Huang, Xuanjing  and
+      Specia, Lucia  and
+      Yih, Scott Wen-tau",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.410",
+    doi = "10.18653/v1/2021.findings-emnlp.410",
+    pages = "4762--4781",
+    abstract = "Adapter modules have emerged as a general parameter-efficient means to specialize a pretrained encoder to new domains. Massively multilingual transformers (MMTs) have particularly benefited from additional training of language-specific adapters. However, this approach is not viable for the vast majority of languages, due to limitations in their corpus size or compute budgets. In this work, we propose MAD-G (Multilingual ADapter Generation), which contextually generates language adapters from language representations based on typological features. In contrast to prior work, our time- and space-efficient MAD-G approach enables (1) sharing of linguistic knowledge across languages and (2) zero-shot inference by generating language adapters for unseen languages. We thoroughly evaluate MAD-G in zero-shot cross-lingual transfer on part-of-speech tagging, dependency parsing, and named entity recognition. While offering (1) improved fine-tuning efficiency (by a factor of around 50 in our experiments), (2) a smaller parameter budget, and (3) increased language coverage, MAD-G remains competitive with more expensive methods for language-specific adapter training across the board. Moreover, it offers substantial benefits for low-resource languages, particularly on the NER task in low-resource African languages. Finally, we demonstrate that MAD-G{'}s transfer performance can be further improved via: (i) multi-source training, i.e., by generating and combining adapters of multiple languages with available task-specific training data; and (ii) by further fine-tuning generated MAD-G adapters for languages with monolingual data.",
+}
+
