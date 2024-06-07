@@ -117,7 +117,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student in Natural Language Processing at the University of Cambridge's Language Technology lab, where I am supervised by [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/) and [Edoardo Ponti](https://ducdauge.github.io/). I am funded by the [Harding Distinguished Postgraduate Scholarship](https://www.hardingscholars.fund.cam.ac.uk/).
+I am currently a Research Intern at Microsoft Research Montreal, working on modular fine-tuning of large language models with [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/) and [Lucas Caccia](https://cs.mcgill.ca/~lpagec/).
+
+I am a final-year PhD student in Natural Language Processing at the University of Cambridge's Language Technology lab, where I am supervised by [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/) and [Edoardo Ponti](https://ducdauge.github.io/). I am grateful to have been funded by the [Harding Distinguished Postgraduate Scholarship](https://www.hardingscholars.fund.cam.ac.uk/).
 
 The main focuses of my research are
  * Cross-lingual transfer, where the plentiful data available in "high-resource" languages such as English is exploited to improve the performance of NLP systems in other languages, especially those with little readily accessible data.
@@ -125,5 +127,6 @@ The main focuses of my research are
 
 I previously obtained a Masters degree in Computer Science, specialising in Natural Language Processing, at the University of Waikato under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Felipe Bravo-Marquez](https://felipebravom.com/). I was an undergraduate at the University of Auckland, completing a conjoint Bachelor of Engineering (Hons) / Bachelor of Arts degree.
 
+I am a former bronze medallist at the International Olympiad in Informatics and completed two software engineering internships at Google. I got interested in AI through game AI programming. You can find my third-place winning entry to the 2018 CodeCup international game AI programming competition [here](https://github.com/AlanAnsell/blackhole).
 
 {style="text-align: justify;"}
