@@ -1,16 +1,16 @@
 ---
-title: "Scaling Sparse Fine-Tuning to Large Language Models"
+title: "Training Plug-n-Play Knowledge Modules with Deep Context Distillation"
 authors:
+- Lucas Caccia
 - admin
-- Ivan Vulić
-- Hannah Sterz
-- Anna Korhonen
 - Edoardo Maria Ponti
+- Ivan Vulić
+- Alessandro Sordoni
 
 # Author notes (optional)
 #author_notes:
 
-date: "2024-02-01"
+date: "2025-03-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +22,8 @@ doi: ""
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
-#publication_short: "EMNLP 2023"
+publication: "Conference on Language Modeling"
+publication_short: "COLM 2025"
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -37,8 +37,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2401.16405
-url_code: https://github.com/AlanAnsell/peft
+url_pdf: https://arxiv.org/pdf/2503.08727
+# url_code: https://github.com/AlanAnsell/peft
 url_dataset: ''
 url_poster: ''
 url_project: ''

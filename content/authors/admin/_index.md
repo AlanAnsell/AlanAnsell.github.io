@@ -14,12 +14,12 @@ last_name: Ansell
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Natural Language Processing
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
-    url: https://www.cam.ac.uk/
+  - name: Google Research
+    # url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Natural Language Processing
       institution: Language Technology Lab, University of Cambridge
-      year: 2020-2024 (expected)
+      year: 2020-2024
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
@@ -88,9 +88,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:aja63@cam.ac.uk'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:aja63@cam.ac.uk'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -99,7 +99,7 @@ social:
 #      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=K-AGWBgAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=FBm7TmgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/AlanAnsell
@@ -115,15 +115,18 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+#The main focuses of my research are
+# * Cross-lingual transfer, where the plentiful data available in "high-resource" languages such as English is exploited to improve the performance of NLP systems in other languages, especially those with little readily accessible data.
+# * Parameter-efficient and modular/composable fine-tuning. These techniques are aimed at making fine-tuning of large language models more accessible and efficient, and enabling multiple indepedent facets of knowledge to be combined in a single model.
+
 ---
 
-I am currently a Research Intern at Microsoft Research Montreal, working on modular fine-tuning of large language models with [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/) and [Lucas Caccia](https://cs.mcgill.ca/~lpagec/).
+I am a Research Scientist at Google Research in Sydney, Australia, working on Gemini multilinguality.
 
-I am a final-year PhD student in Natural Language Processing at the University of Cambridge's Language Technology lab, where I am supervised by [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/) and [Edoardo Ponti](https://ducdauge.github.io/). I am grateful to have been funded by the [Harding Distinguished Postgraduate Scholarship](https://www.hardingscholars.fund.cam.ac.uk/).
+I completed (grad. pend.) a PhD in Natural Language Processing at the University of Cambridge's Language Technology lab, where I was supervised by [Anna Korhonen](https://sites.google.com/site/annakorhonen/), [Ivan Vulić](https://sites.google.com/site/ivanvulic/) and [Edoardo Ponti](https://ducdauge.github.io/). I am grateful to have been funded by the [Harding Distinguished Postgraduate Scholarship](https://www.hardingscholars.fund.cam.ac.uk/).
 
-The main focuses of my research are
- * Cross-lingual transfer, where the plentiful data available in "high-resource" languages such as English is exploited to improve the performance of NLP systems in other languages, especially those with little readily accessible data.
- * Parameter-efficient and modular/composable fine-tuning. These techniques are aimed at making fine-tuning of large language models more accessible and efficient, and enabling multiple indepedent facets of knowledge to be combined in a single model.
+
+In 2024, I was a Research Intern at Microsoft Research Montreal, working on modular fine-tuning of LLMs with [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/) and [Lucas Caccia](https://cs.mcgill.ca/~lpagec/).
 
 I previously obtained a Masters degree in Computer Science, specialising in Natural Language Processing, at the University of Waikato under the supervision of [Bernhard Pfahringer](https://www.cs.waikato.ac.nz/~bernhard/) and [Felipe Bravo-Marquez](https://felipebravom.com/). I was an undergraduate at the University of Auckland, completing a conjoint Bachelor of Engineering (Hons) / Bachelor of Arts degree.
 
