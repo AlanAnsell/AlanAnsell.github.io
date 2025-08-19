@@ -1,5 +1,5 @@
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
+# Allows you to run this workflow manually from the Actions tab on GitHub.
+on:  workflow_dispatch
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
